@@ -1,0 +1,5 @@
+Jan Kowalski 1990 5 15 M 75.5 85.5 3 1
+Anna Nowak 1985 12 3 K 62.3 92.1 1 1
+Piotr Wisniewski 1995 8 22 M 80.1 78.9 5 0
+Maria Dabrowska 1988 3 14 K 58.7 88.3 2 1
+Krzysztof Jankowski 1992 11 7 M 85.2 76.4 4 0
